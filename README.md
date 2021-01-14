@@ -10,6 +10,6 @@ An in-depth paragraph about your project and overview of use.
 * How/Where to download your program
 * Any Modifications needed to be made to files/folders
 
-**code blocks for commands**
+code blocks for commands
 # License
 This **project** is licensed under [Name Here] - see the LICENSE.md file for details.
